@@ -1,6 +1,7 @@
 Hi there, I'm MOHAMAD NOR ALABDO 👋
 
-Cybersecurity Trainee based in Mount Lebanon.
+Cybersecurity Trainee based in North 
+Lebanon.
 
 I'm interested in:
 - Network Security
